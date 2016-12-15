@@ -1,4 +1,6 @@
 # rowley15
 worknwellness research project.
 
-I am fascinated with neuroscience, but have no clue what I am doing here in computer science.
+I am fascinated with neuroscience, and I'd like to learn
+
+compter science, but have no clue what I am doing.
